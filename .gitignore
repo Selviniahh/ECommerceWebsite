@@ -1,0 +1,23 @@
+# Ignore build output directories
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+*.sln.iml
+node_modules/
+*.log
+*.tmp
+*.temp
+*.js.map
+.vscode/
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+Group6WebProject/Migrations
+Migrations/
+Group6WebProject/app.db
+Group6WebProject/app.db-shm
+Group6WebProject/app.db-wal
